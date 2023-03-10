@@ -21,7 +21,8 @@ and we as this service provider, can take a cut from every transaction that occu
 ## Technology / Stack used in this app
 
 - ReactJS with Typescript
-- Redux Tool Kit State Management
+- Antd UI Framework
+- Redux Toolkit State Management
 - Firebase Backend
 - VideoCall using Agora.io
 - Stripe payment gateway

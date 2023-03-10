@@ -27,6 +27,10 @@ for detail tutorial you can follow this tutorial for windows <https://www.geeksf
 we are not using npm to run our project, but we use `Yarn`, you need to install yarn on your system
 
 - install yarn <https://classic.yarnpkg.com/lang/en/docs/install/>
+
+```npm
+  npm install --global yarn
+```
   
 ![yarnInstall](img/yarn.png)
 
@@ -36,8 +40,10 @@ we are not using npm to run our project, but we use `Yarn`, you need to install 
 We will need Firebase cli to easity deploy our `Hallo Doctor Web` to Firebase Hosting, and we need to install it on our computer : 
 
 - install Firebase CLI <https://firebase.google.com/docs/cli>
-- bellow choose your operating system, you don't have to follow that firebase cli documentation, you just need to install it on your computer
-
-![firebase-cli](img/firebase1.png)
+- to install firebase cli we recommend to use NPM wit this command 
+  
+  ```npm
+  npm install -g firebase-tools
+  ```
 
 If all of that Software succefully installed on your computer, you are now ready to run `Hallo Doctor Web` on your computer, and deploy it later, continue to the next tutorial
